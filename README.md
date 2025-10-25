@@ -1,7 +1,7 @@
 # 🛍️ Panel de Gestión de Productos - React
 
 Una aplicación web moderna para la gestión de productos construida con Next.js, TypeScript y Tailwind CSS. Permite crear, listar, buscar, editar y eliminar productos con una interfaz intuitiva y notificaciones en tiempo real.
-
+![alt text](<docs/Screenshot 2025-10-24 at 11.17.58 PM.png>)
 ## 🚀 Características
 
 ### ✨ Funcionalidades Principales
